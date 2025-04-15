@@ -1,0 +1,5 @@
+After opening the project folder in any editor 
+
+past this line to start the server
+
+$env:NODE_ENV="development"; npx tsx server/index.ts
